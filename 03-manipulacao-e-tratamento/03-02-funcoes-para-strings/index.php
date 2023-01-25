@@ -91,5 +91,5 @@ var_dump([
     $endPoint,
     $parseEndPoint,
     (object)$parseEndPoint
-]);
+])
 
