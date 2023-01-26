@@ -7,7 +7,7 @@ fullStackPHPClassName("03.06 - Uma classe DateTime");
  */
 fullStackPHPClassSession("A classe DateTime", __LINE__);
 
-define("DATE_BR", "d/m/Y H:i:s");
+define("DATE_BR ", "d/m/Y H:i:s");
 
 $dateNow = new DateTime();
 $dateBirth = new DateTime("1986-07-01");
