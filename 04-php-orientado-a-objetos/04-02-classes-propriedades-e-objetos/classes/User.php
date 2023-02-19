@@ -19,7 +19,7 @@ class User
      */
     public function setFirstName($firstName)
     {
-        $this->firstName = filter_var($firstName, FILTER_SANITIZE_STRIPPED);
+        $this->firstName = filter_var($firstName,FILTER_SANITIZE_FULL_SPECIAL_CHARS);
     }
 
     /**
@@ -36,7 +36,7 @@ class User
      */
     public function setLastName($lastName)
     {
-        $this->lastName = filter_var($lastName, FILTER_SANITIZE_STRIPPED);
+        $this->lastName = filter_var($lastName,FILTER_SANITIZE_FULL_SPECIAL_CHARS);
     }
 
 
