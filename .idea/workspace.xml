@@ -5,10 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86d51a5f-7c87-4401-beb8-5361de618605" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/04-php-orientado-a-objetos/04-03-qualificacao-e-encapsulamento/classes/App/Template.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-php-orientado-a-objetos/04-03-qualificacao-e-encapsulamento/source/Qualifield/User.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-php-orientado-a-objetos/04-03-qualificacao-e-encapsulamento/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/04-php-orientado-a-objetos/04-03-qualificacao-e-encapsulamento/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-php-orientado-a-objetos/04-03-qualificacao-e-encapsulamento/classes/App/Template.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-php-orientado-a-objetos/04-03-qualificacao-e-encapsulamento/classes/Web/Template.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-php-orientado-a-objetos/04-03-qualificacao-e-encapsulamento/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-php-orientado-a-objetos/04-03-qualificacao-e-encapsulamento/source/Qualifield/User.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-php-orientado-a-objetos/04-04-carregamento-automatico/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-php-orientado-a-objetos/04-05-interpretacao-e-operacoes-pt1/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-php-orientado-a-objetos/04-05-interpretacao-e-operacoes-pt1/source/autoload.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-php-orientado-a-objetos/04-06-interpretacao-e-operacoes-pt2/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-php-orientado-a-objetos/04-06-interpretacao-e-operacoes-pt2/source/autoload.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-php-orientado-a-objetos/04-07-relacionamento-entre-objetos/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-php-orientado-a-objetos/04-07-relacionamento-entre-objetos/source/autoload.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-php-orientado-a-objetos/04-08-heranca-e-polimorfismo/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-php-orientado-a-objetos/04-08-heranca-e-polimorfismo/source/autoload.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-php-orientado-a-objetos/04-09-membros-de-uma-classe/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-php-orientado-a-objetos/04-09-membros-de-uma-classe/source/autoload.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-php-orientado-a-objetos/04-10-fundamentos-de-abstracao/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-php-orientado-a-objetos/04-10-fundamentos-de-abstracao/source/autoload.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-php-orientado-a-objetos/04-11-contratos-com-interfaces/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-php-orientado-a-objetos/04-11-contratos-com-interfaces/source/autoload.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-php-orientado-a-objetos/04-12-comportamentos-com-traits/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-php-orientado-a-objetos/04-12-comportamentos-com-traits/source/autoload.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +85,7 @@
       <workItem from="1674781716313" duration="830000" />
       <workItem from="1676814252282" duration="2144000" />
       <workItem from="1676833458397" duration="5611000" />
-      <workItem from="1676844281263" duration="9333000" />
+      <workItem from="1676844281263" duration="10437000" />
     </task>
     <servers />
   </component>
