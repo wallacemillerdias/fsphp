@@ -63,12 +63,23 @@
       <workItem from="1676814252282" duration="2144000" />
       <workItem from="1676833458397" duration="5611000" />
       <workItem from="1676844281263" duration="10437000" />
-      <workItem from="1676855878764" duration="2896000" />
+      <workItem from="1676855878764" duration="3310000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/04-php-orientado-a-objetos/04-03-qualificacao-e-encapsulamento/index.php</url>
+          <line>48</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
