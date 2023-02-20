@@ -38,6 +38,6 @@ if (!$user->setEmail("cursos@gmail.com")) {
     echo "<p class='trigger error'>O e-mail {$user->getEmail()} não é válido</p>";
 }
 
-$user->email = "cursos"; // não passa pela validação do if
+$user->email = "cursos"; // não passa pela validação do if()
 
 var_dump($user);
