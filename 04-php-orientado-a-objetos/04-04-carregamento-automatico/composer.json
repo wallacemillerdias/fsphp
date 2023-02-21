@@ -1,0 +1,19 @@
+{
+    "name": "wallacemiller/004-04-carregamento-automatico",
+    "description": "Full Stack Developer",
+    "require": {
+        "phpmailer/phpmailer": "6"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Wallacemiller\\00404CarregamentoAutomatico\\": "source/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Wallace"
+        }
+    ],
+    "minimum-stability": "stable"
+}
