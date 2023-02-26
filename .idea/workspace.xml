@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86d51a5f-7c87-4401-beb8-5361de618605" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/fsphp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fsphp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-php-orientado-a-objetos/04-04-carregamento-automatico/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/04-php-orientado-a-objetos/04-04-carregamento-automatico/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-php-orientado-a-objetos/04-04-carregamento-automatico/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/04-php-orientado-a-objetos/04-04-carregamento-automatico/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-php-orientado-a-objetos/04-04-carregamento-automatico/source/autoload.php" beforeDir="false" afterPath="$PROJECT_DIR$/04-php-orientado-a-objetos/04-04-carregamento-automatico/source/autoload.php" afterDir="false" />
-    </list>
+    <list default="true" id="86d51a5f-7c87-4401-beb8-5361de618605" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,7 +81,7 @@
       <workItem from="1677070650309" duration="6047000" />
       <workItem from="1677118653749" duration="602000" />
       <workItem from="1677291240700" duration="116000" />
-      <workItem from="1677449554381" duration="1714000" />
+      <workItem from="1677449554381" duration="2063000" />
     </task>
     <servers />
   </component>
