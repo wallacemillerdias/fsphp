@@ -29,3 +29,7 @@ var_dump(
 fullStackPHPClassSession("autoload composer psr-4", __LINE__);
 
 require __DIR__ . "/vendor/autoload.php";
+
+$email = new \PHPMailer\PHPMailer\PHPMailer();
+echo "<pre>";
+var_dump($email);

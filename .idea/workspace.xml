@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86d51a5f-7c87-4401-beb8-5361de618605" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/04-php-orientado-a-objetos/04-04-carregamento-automatico/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-php-orientado-a-objetos/04-04-carregamento-automatico/source/Loading/Address.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-php-orientado-a-objetos/04-04-carregamento-automatico/source/Loading/Company.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-php-orientado-a-objetos/04-04-carregamento-automatico/source/Loading/User.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-php-orientado-a-objetos/04-04-carregamento-automatico/source/autoload.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/fsphp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fsphp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-php-orientado-a-objetos/04-04-carregamento-automatico/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/04-php-orientado-a-objetos/04-04-carregamento-automatico/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-php-orientado-a-objetos/04-04-carregamento-automatico/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/04-php-orientado-a-objetos/04-04-carregamento-automatico/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-php-orientado-a-objetos/04-04-carregamento-automatico/source/autoload.php" beforeDir="false" afterPath="$PROJECT_DIR$/04-php-orientado-a-objetos/04-04-carregamento-automatico/source/autoload.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,27 +28,28 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 8.1" />
   <component name="ProjectId" id="2KpXgB32BsqrAdX95MUJL6WWBnj" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenDatabaseViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/var/www/html/workspace/fsphp/04-php-orientado-a-objetos/004-04-carregamento-automatico&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.webide.settings.project.settings.php&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenDatabaseViewOnStart": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/var/www/html/workspace/fsphp",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.webide.settings.project.settings.php",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/04-php-orientado-a-objetos/004-04-carregamento-automatico" />
@@ -84,6 +85,10 @@
       <workItem from="1676844281263" duration="10437000" />
       <workItem from="1676855878764" duration="3696000" />
       <workItem from="1676916514605" duration="20563000" />
+      <workItem from="1677070650309" duration="6047000" />
+      <workItem from="1677118653749" duration="602000" />
+      <workItem from="1677291240700" duration="116000" />
+      <workItem from="1677449554381" duration="1714000" />
     </task>
     <servers />
   </component>

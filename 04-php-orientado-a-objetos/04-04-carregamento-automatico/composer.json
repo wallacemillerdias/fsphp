@@ -1,19 +1,24 @@
 {
-    "name": "wallacemiller/004-04-carregamento-automatico",
-    "description": "Full Stack Developer",
-    "require": {
-        "phpmailer/phpmailer": "6"
-    },
-    "license": "MIT",
-    "autoload": {
-        "psr-4": {
-            "Wallacemiller\\00404CarregamentoAutomatico\\": "source/"
-        }
-    },
+    "name": "UpInside/fsphp",
+    "description": "Full Stack PHP Developer",
+    "minimum-stability": "stable",
     "authors": [
         {
-            "name": "Wallace"
+            "name": "Wallace Miller",
+            "email": "wallacemillerdias@upinside.com.br"
+            "homepage": "https://wallacemiller.com.br",
+            "role": "Developer"
         }
     ],
-    "minimum-stability": "stable"
+    "config": {
+        "vendor-lib": "vendor"
+    },
+    "autoload": {
+        "psr-4": {
+            "Source\\": "source/"
+        }
+    },
+    "require": {
+        "phpmailer/phpmailer": "~v6.0"
+    }
 }

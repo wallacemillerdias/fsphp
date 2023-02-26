@@ -3,7 +3,9 @@
 spl_autoload_register(function ($class) {
     $nameSpace = "Source\\";
     $baseDir = __DIR__ . "/";
-    $len = strlen($nameSpace);
+    $len = strlen($nameSpace); // contando a qtd de caract. em $nameSpace
+
+    var_dump($len);
 
     if (strncmp($nameSpace, $class, $len) !== 0) {
         return;
