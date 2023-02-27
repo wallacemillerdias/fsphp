@@ -54,7 +54,7 @@ function fullStackPHPClassSession($session, $line, $color = null)
     $session = (!empty($session) ? "[ {$session}{$line} ]" : "");
     $color = (!empty($color) ? "var(--{$color})" : "");
     echo "<div class='code line' style='background-color: {$color}'>{$session}</div>";
-    echo "<pre>";
+//    echo "<pre>";
 }
 /**
  * [ Default errors ] Função para exibir erros do PHP

@@ -2,8 +2,6 @@
 
 namespace classes;
 
-<?php
-
 class User
 {
     public $firstName;

@@ -9,7 +9,7 @@ fullStackPHPClassSession("classe e objeto", __LINE__);
 
 require __DIR__ . "/classes/User.php";
 
-$user = new User() ;
+$user = new classes\User();
 var_dump($user);
 
 
