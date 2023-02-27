@@ -54,9 +54,8 @@ function fullStackPHPClassSession($session, $line, $color = null)
     $session = (!empty($session) ? "[ {$session}{$line} ]" : "");
     $color = (!empty($color) ? "var(--{$color})" : "");
     echo "<div class='code line' style='background-color: {$color}'>{$session}</div>";
+    echo "<pre>";
 }
-
-
 /**
  * [ Default errors ] Função para exibir erros do PHP
  */
@@ -65,3 +64,4 @@ function fullStackPHPErrorHandler($error, $message, $file, $line)
     $color = ($error == E_USER_ERROR ? "red" : "yellow");
     echo "<div class='trigger' style='border-color: var(--{$color}); color:var(--{$color});'>[ Linha {$line} ] {$message}<small>{$file}</small></div>";
 }
+
